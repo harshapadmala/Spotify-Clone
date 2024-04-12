@@ -8,5 +8,7 @@ With a clean and intuitive design, this clone provides users with a familiar bro
 
 Key Features:
 1.Visual Representation: Explore a visually appealing interface reminiscent of Spotify's layout, including navigation menus, album covers, and artist profiles.
+
 2.Responsive Design: Enjoy seamless viewing across various devices, from desktops to mobile devices, thanks to responsive design principles.
+
 3.Static Content: While this clone focuses on visual fidelity and layout, it does not include dynamic functionalities like music playback or database integration.
