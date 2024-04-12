@@ -7,6 +7,7 @@ The Spotify Clone project aims to replicate the user interface of the popular mu
 With a clean and intuitive design, this clone provides users with a familiar browsing experience similar to Spotify.
 
 Key Features:
+
 1.Visual Representation: Explore a visually appealing interface reminiscent of Spotify's layout, including navigation menus, album covers, and artist profiles.
 
 2.Responsive Design: Enjoy seamless viewing across various devices, from desktops to mobile devices, thanks to responsive design principles.
